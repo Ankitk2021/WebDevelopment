@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hare Ram Krishna✨</title>
+    <link rel="shortcut icon" href="image.png" type="image/x-icon">
+
+
+    <style>
+        :root {
+            --mycolor: rgba(12, 96, 186, 0.986);
+
+            /* this color is accesible in whole css */
+        }
+
+        .parent {
+
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            width: 100vw;
+
+        }
+
+        #container {
+            --custom_color_name: yellow;
+
+            /* this color is only accessible in only brasis */
+            border: solid 2px black;
+            height: 300px;
+            width: 300px;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            border-radius: 20px;
+            text-align: center;
+            /* box-shadow: inset 9px 9px  42px 29px red; */
+            /* box-shadow:  4px 4px  42px 25px red; */
+
+            box-shadow: inset 2px 2px 4px 2px green, inset -2px -2px 4px 2px yellow;
+
+
+
+        }
+
+        p {
+            text-align: center;
+
+            background: #60418e;
+            padding: 8px;
+            margin: 12px;
+            height: 90%;
+            border-radius: 18px;
+            transition: all 3s linear 1s;
+            transform: perspective(23px);
+        }
+        p:hover{
+            transform: rotate(359deg) scale(0.5) skew(12deg) translate(334px,500px);
+        }
+    </style>
+</head>
+<body>
+    <div class="parent">
+        <div id="container">
+
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque laboriosam nesciunt reprehenderit
+                consectetur hic
+                perferendis atque nostrum iure numquam repellat!</p>
+        </div>
+    </div>
+</body>
+</html>

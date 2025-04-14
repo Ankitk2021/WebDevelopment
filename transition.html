@@ -6,13 +6,10 @@
     <title>Hare Ram Krishna✨</title>
     <link rel="shortcut icon" href="image.png" type="image/x-icon">
 
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
 
     <style>
-
-        :root{
-            --mycolor : rgba(12, 96, 186, 0.986);
+        :root {
+            --mycolor: rgba(12, 96, 186, 0.986);
 
             /* this color is accesible in whole css */
         }
@@ -21,44 +18,45 @@
 
             display: flex;
             flex-direction: row;
-            justify-content: center;
-            align-items: center;
+            justify-content: start;
+            align-items: start;
             height: 100vh;
             width: 100vw;
+
         }
-        .container{
-            --custom_color_name : yellow;
+
+        #container {
+            --custom_color_name: yellow;
 
             /* this color is only accessible in only brasis */
-            border:solid 2px black;
+            border: solid 2px black;
             height: 300px;
             width: 300px;
-            background-color: var(--mycolor);
+           
+
+          
             border-radius: 20px;
             text-align: center;
             /* box-shadow: inset 9px 9px  42px 29px red; */
             /* box-shadow:  4px 4px  42px 25px red; */
 
             box-shadow: 8px 8px 8px 12px green, -8px -8px 8px 12px yellow;
+
            
 
         }
-        #hello{
 
-            /* text-shadow: 2px 18px 2px  aqua; */
-            color: black;
-            text-shadow: -0px 48px 2px  rgb(0, 255, 26),90px -68px 2px  rgb(251, 0, 255),-90px -68px 2px  rgb(0, 4, 255);
-     
-        }
+    
     </style>
 </head>
 <body>
-   <div class="parent">
-    <div class="container">
-        <h1 id="hello">Hello World</h1>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque laboriosam nesciunt reprehenderit consectetur hic
-        perferendis atque nostrum iure numquam repellat!</p>
+    <div class="parent">
+        <div id="container">
+            
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque laboriosam nesciunt reprehenderit
+                consectetur hic
+                perferendis atque nostrum iure numquam repellat!</p>
+        </div>
     </div>
-   </div>
 </body>
 </html>
