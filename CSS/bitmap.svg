@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient21">
+      <stop
+         style="stop-color:#000a00;stop-opacity:1;"
+         offset="0"
+         id="stop21" />
+      <stop
+         style="stop-color:#12de41;stop-opacity:0;"
+         offset="0.89750695"
+         id="stop22" />
+    </linearGradient>
+    <pattern
+       xlink:href="#pattern21-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern19"
+       patternTransform="matrix(1.3580885,0,0,1.3580885,449.15746,194.30005)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="40"
+       height="40"
+       patternTransform="translate(349.5,182.25)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern21-1"
+       style="fill:#000000">
+      <path
+         id="path19-0"
+         style="stroke-width:4.8561;stroke-linecap:square;paint-order:stroke markers fill;stop-color:#000000"
+         d="M 10,0 C 4.47715,0 0,4.47715 0,10 V 20 H 10 C 15.52285,20 20,15.52285 20,10 20,4.47715 15.52285,0 10,0 Z M 30,0 C 24.47715,0 20,4.47715 20,10 V 20 H 30 C 35.52285,20 40,15.52285 40,10 40,4.47715 35.52285,0 30,0 Z M 10,40 c 5.52285,0 10,-4.47715 10,-10 V 20 H 10 C 4.47715,20 0,24.47715 0,30 0,35.52285 4.47715,40 10,40 Z m 20,0 c 5.52285,0 10,-4.47715 10,-10 V 20 H 30 c -5.52285,0 -10,4.47715 -10,10 0,5.52285 4.47715,10 10,10 z" />
+    </pattern>
+    <linearGradient
+       xlink:href="#linearGradient21"
+       id="linearGradient22"
+       x1="-0.018813491"
+       y1="189.07684"
+       x2="120.90485"
+       y2="189.07684"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#0200b0;fill-opacity:1;stroke-width:0.264014"
+       id="rect1"
+       width="210.71667"
+       height="296.28693"
+       x="-0.35654262"
+       y="0.71308517"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:189.481px;line-height:0px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:center;letter-spacing:18.2375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;mix-blend-mode:darken;fill:url(#linearGradient22);fill-opacity:1;fill-rule:nonzero;stroke:#fcc8f6;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.876289;paint-order:normal"
+       x="60.67432"
+       y="256.89401"
+       id="text1"
+       transform="matrix(1.2095772,-0.04527928,0.02697011,0.82572555,0,0)"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:url(#linearGradient22);fill-opacity:1;fill-rule:nonzero;stroke:#fcc8f6;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.876289;paint-order:normal"
+         x="69.793068"
+         y="256.89401">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56.4726px;line-height:0.452753px;font-family:'Microsoft Sans Serif', extra;-inkscape-font-specification:'Microsoft Sans Serif, extra Bold';text-align:center;letter-spacing:-3.22676px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:url(#pattern19);fill-opacity:1;stroke-width:0.39217"
+       x="120.75007"
+       y="184.82326"
+       id="text4"
+       transform="scale(1.0743895,0.93076111)"><tspan
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.452753px;font-family:'Microsoft Sans Serif', extra;-inkscape-font-specification:'Microsoft Sans Serif, extra Bold';letter-spacing:-3.22676px;fill:url(#pattern19);fill-opacity:1;stroke-width:0.39217"
+         x="119.13669"
+         y="184.82326"
+         dx="0 0 0 0 0 1.1815369"
+         dy="0 0 0 0 0 0.10864707">ounter</tspan></text>
+  </g>
+</svg>
